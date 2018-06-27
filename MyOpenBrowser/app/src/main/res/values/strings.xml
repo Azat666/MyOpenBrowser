@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Open Browser</string>
+    <string name="search">Search</string>
+    <string name="go_search">Go Search</string>
+</resources>

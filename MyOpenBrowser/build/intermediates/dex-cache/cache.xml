@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\MyOpenBrowser\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Student\Desktop\MyOpenBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b6508f696bea20d159dd8b480af5a8c30abae29d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\MyOpenBrowser\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f6f9e466081bbde6fb9a35d55fee7586abba550b">
+        <dex dex="C:\Users\Student\Desktop\MyOpenBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_00d649b99670f167eda254de1af6a30ee94c6fad\classes.dex" />
+    </item>
+
+</items>
